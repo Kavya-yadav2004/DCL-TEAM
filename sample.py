@@ -1,2 +1,3 @@
-student["age"]=23
-print(student)
+def functionname():
+    print("hello gitworld")
+functionname()    
